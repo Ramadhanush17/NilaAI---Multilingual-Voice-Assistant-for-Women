@@ -1,0 +1,6 @@
+{
+  "name": "NilaAI - Multilingual Voice Assistant for Women",
+  "description": "Speak your language. Get the guidance you need. A voice-first AI assistant for first-time women users to understand government services, schemes, and skill resources.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
